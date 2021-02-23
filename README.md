@@ -1,7 +1,11 @@
-# magistratus.vuejs
+# magistratus.frontend
+
+Front end application for a police force tracking system
 
 ## Project setup
 ```
+git clone git@github.com:unum15/magistratus.frontend.git
+cd magistratus.frontend
 npm install
 ```
 
